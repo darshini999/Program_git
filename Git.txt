@@ -1,1 +1,1 @@
-HELLO GIT HUB.....!
+Git Hash: Git hash-object would take the content you handed to it and merely return the unique key that would be used to store it in your Git database.
